@@ -11,6 +11,8 @@ Results:
 
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 
+![](https://github.com/PJ427/Surfs_Up/blob/main/Resources/June Temps.PNG)
+
 <img src="https://github.com/PJ427/Surfs_Up/blob/main/Resources/June Temps.PNG>
 <img src="https://github.com/PJ427/Surfs_Up/blob/main/Resources/Dec Temps.PNG>
 
