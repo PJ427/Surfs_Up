@@ -9,12 +9,17 @@ The purpose of the analysis is well defined. (3 pt)
 
 ## Results:
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
+Our results show that ...
+  There is a bulleted list that addresses the three key differences in weather between June and December.
+
+![](June_Temps.PNG)
+![](Dec_Temps.PNG)
+
 
 
 <p align>
-  <img src="https://github.com/PJ427/Surfs_Up/blob/main/Resources/June Temps.PNG>
-  <img src="https://github.com/PJ427/Surfs_Up/blob/main/Resources/Dec Temps.PNG>
+  <img src="https://github.com/PJ427/Surfs_Up/blob/main/Resources/June_Temps.PNG>
+  <img src="https://github.com/PJ427/Surfs_Up/blob/main/Resources/Dec_Temps.PNG>
 </p>
 
 ## Summary:
