@@ -14,8 +14,9 @@ The results from our analysis of the temprature on the Island of Oahu in the mon
     o
    
 <p align="center">
- <img src="https://github.com/PJ427/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.pn">
+ <img src=https://github.com/PJ427/Surfs_Up/blob/main/Resources/June_Temps.PNG">
 </p>
+
 ## Summary:
 
   Our results show that the Surf-n-Cream shop is definitely sustainable year round on the Island of Oahu.  Though there is some changes in weather in regards to precipitation and temprature it is not siginificant enough to prevent the venture from being successful.
