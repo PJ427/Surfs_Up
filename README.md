@@ -14,7 +14,7 @@ The results from our analysis of the temprature on the Island of Oahu in the mon
     o
    
 <p align="center">
- <img src="https://github.com/PJ427/Surfs_Up/blob/main/Resources/June_Temps.PNG", "https://github.com/PJ427/Surfs_Up/blob/main/Resources/Dec_Temps.PNG">
+ <img src="https://github.com/PJ427/Surfs_Up/blob/main/Resources/June_Temps.PNG">
 </p>
 
 ## Summary:
